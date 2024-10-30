@@ -8,7 +8,8 @@ export default function Card({title, poster, text}) {
       <div>
         <h2 className={styles.title}>{title}</h2>
         <p className={styles.description}>{text}</p>
-        <Button/>
+        <Button text="Comprar Agora" />
+        <Button text="Reservar" />
       </div>
     </div>
   )

@@ -3,6 +3,7 @@ import Card from "./components/Card"
 import poster1 from "./assets/poster1.jpg"
 import poster2 from "./assets/poster2.jpg"
 import poster3 from "./assets/poster3.jpg"
+import Button from "./components/Button";
 
 //definindo o componente principal App, que será renderizado na tela.
 export default function App() {

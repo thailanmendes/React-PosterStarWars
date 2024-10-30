@@ -8,6 +8,7 @@
     margin-top: 2rem;
     padding: .75em 1.25em;
     transition: .3s;
+    margin-right: 2rem;
   }
   
   .wrapper:hover {
